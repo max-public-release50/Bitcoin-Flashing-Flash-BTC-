@@ -1,0 +1,18 @@
+PROJECT STARTUP
+
+1. Install Python 3.10+
+
+2. (Optional)
+Install Node.js
+https://nodejs.org/en
+
+3. Start the server
+
+python main.py
+
+4. Open
+
+http://localhost:8000
+
+Status:
+READY

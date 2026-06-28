@@ -3,15 +3,6 @@ Bitcoin Flashing (Flash BTC)
 
 ---
 
-Table of Contents
-
-- What Is Flash BTC?
-- How Bitcoin Transactions Work
-- Flash BTC vs. Real Bitcoin
-- Supported Network
-- Educational Disclaimer
-- License
-
 # Demo
 
 **https://youtu.be/K7TwyxdZCXk?si=z66NGFlK3lDHNzLr**
@@ -48,17 +39,6 @@ These environments enable developers to:
 - Build payment software
 - Debug transactions
 - Experiment without risking real Bitcoin
-
----
-
-Flash BTC vs. Real Bitcoin
-
-Real Bitcoin| Simulated "Flash BTC" Claims
-Blockchain validated| Not blockchain validated
-Cryptographically verified| Often simulated only
-Permanently recorded| Not permanently recorded
-Spendable| Not spendable
-Network confirmed| No valid confirmation
 
 ---
 
